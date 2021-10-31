@@ -11,5 +11,10 @@ public class JDBCTest06
 		System.out.println("111111");
 		System.out.println("111111");
 		System.out.println("111111");
+		System.out.println("111111");
+		System.out.println("111111");
+		System.out.println("111111");
+		System.out.println("111111");
+		System.out.println("111111");
 	}
 }
